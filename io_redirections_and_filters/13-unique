@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | sort -f | uniq -u
+cat list_1 | sort -f | uniq -u
